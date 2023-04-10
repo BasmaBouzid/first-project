@@ -1,2 +1,2 @@
-# 
-Intelligent fire detection system
+# Intelligent fire detection system
+
